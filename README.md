@@ -2,7 +2,7 @@
 
 Keep track of income and expenses. Retrieve, add and remove items from MongoDB using a custom RESTful API built with Node.js and Express. Created with React using functional components with hooks and the context API. Please note: this app is hosted on Cyclic.sh and may take a few seconds to spin up.
 
-[LIVE DEMO](https://dark-beret-fawn.cyclic.app/) :point_left:
+# [LIVE DEMO](https://dark-beret-fawn.cyclic.app/) :point_left:
 
 ## Project Specifications
 
