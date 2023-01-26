@@ -18,7 +18,7 @@ Keep track of income and expenses. Retrieve, add and remove items from MongoDB u
 
 - [React](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
-- [Express] (https://expressjs.com/)
+- [Express](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [react-icons](https://www.npmjs.com/package/react-icons)
 - Vanilla CSS
